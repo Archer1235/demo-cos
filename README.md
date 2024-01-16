@@ -1,3 +1,3 @@
-#Demo Website
+#DemoWebsite
 
 COS Website
